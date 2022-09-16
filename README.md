@@ -1,5 +1,7 @@
 # Currículo feito apenas usando HTML segundo o aprendizado no Curso Web Development Bootcamp da Udemy.
 
+![PreviewCV.png](./.github/PreviewCV.png)
+
 Projeto criado para um currículo feito apenas usando HTML segundo o aprendizado no Curso Web Development Bootcamp da Udemy.
 
 ## 🛠 Tecnologias 
