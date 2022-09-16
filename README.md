@@ -1,4 +1,4 @@
-# Currículo feito apenas usando HTML segundo o aprendizado no Curso Web Development Bootcamp da Udemy.
+# Currículo feito apenas usando HTML.
 
 ![PreviewCV.png](./.github/PreviewCV.png)
 
